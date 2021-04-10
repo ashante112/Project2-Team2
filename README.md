@@ -24,7 +24,9 @@
 <li>Your final visualization should ideally include at least three views.</li></ol>
 
 <h2>Project Proposal:</h2>
-<p></p>
+<p>Our project will involve creating a visualization of volcanic activity worldwide.</p>
 
 
-
+<h2>Links</h2>
+<a href="https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search">https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search</a>
+<a href="https://volcano.si.edu/search_volcano.cfm">https://volcano.si.edu/search_volcano.cfm</a>
