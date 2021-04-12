@@ -30,8 +30,8 @@
 <li>Orange = watch</li>
 <li>Red = warning</li></ul></p>
 <p>A more detailed breakdown of these categorical levels can be found on the USGS site: <a href="https://www.usgs.gov/volcano/alert-level-icons">https://www.usgs.gov/volcano/alert-level-icons</a></p>
-<p>We found the following visualization the best displays our intended goal:
-<img src=""></p>
+<p>We found the following visualization best displays our intended goal:
+<img src="Images/USGS_volcanic_hazards_viz.png"></p>
 <p>You can explore the interactive verson on the following site: <a href="https://www.usgs.gov/natural-hazards/volcano-hazards/">https://www.usgs.gov/natural-hazards/volcano-hazards/</a></p>
 
 
