@@ -28,7 +28,7 @@
 <p>In light of the current volcanic eruption of Saint Soufrere which took place in Saint Vincent and Grenadines, our group chose to focus our project on bringing awereness to the scope of volcanic activities in an interactive and geographic visualization. We plan to construct a global view of volcanic references which are labeled according to their current status of activity. For example: <ul><div><li>Green = normal</li>
 <li>Yellow = advisory</li>
 <li>Orange = watch</li>
-<li>Red = warning</li></ul></div><div><img src=""></div></p>
+<li>Red = warning</li></ul></div><div><img src="Images/Volcanic_Advisory_Scale.jpeg"></div></p>
 
 <p>A more detailed breakdown of these categorical levels can be found on the USGS site: <a href="https://www.usgs.gov/volcano/alert-level-icons">https://www.usgs.gov/volcano/alert-level-icons</a></p>
 <p>We found the following visualization best displays our intended goal:
