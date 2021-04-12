@@ -29,5 +29,5 @@
 
 <h2>Resource Links</h2>
 <a href="https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search">https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search</a><br>
-<a href="https://volcano.si.edu/search_volcano.cfm">https://volcano.si.edu/search_volcano.cfm</a>
+<a href="https://volcano.si.edu/search_volcano.cfm">https://volcano.si.edu/search_volcano.cfm</a><br>
 <a href="https://www.americangeosciences.org/critical-issues/maps/volcano-activity-alerts">https://www.americangeosciences.org/critical-issues/maps/volcano-activity-alerts</a>
