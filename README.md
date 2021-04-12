@@ -25,10 +25,11 @@
 
 <h2>Project Proposal:</h2>
 <p>Our project will involve creating a visualization of volcanic activity worldwide.</p>
-<p>In light of the current volcanic eruption of Saint Soufrere which took place in Saint Vincent and Grenadines, our group chose to focus our project on bringing awereness to the scope of volcanic activities in an interactive and geographic visualization. We plan to construct a global view of volcanic references which are labeled according to their current status of activity. For example: <ul><li>Green = normal</li>
+<p>In light of the current volcanic eruption of Saint Soufrere which took place in Saint Vincent and Grenadines, our group chose to focus our project on bringing awereness to the scope of volcanic activities in an interactive and geographic visualization. We plan to construct a global view of volcanic references which are labeled according to their current status of activity. For example: <ul><div><li>Green = normal</li>
 <li>Yellow = advisory</li>
 <li>Orange = watch</li>
-<li>Red = warning</li></ul></p>
+<li>Red = warning</li></ul></div><div><img src=""></div></p>
+
 <p>A more detailed breakdown of these categorical levels can be found on the USGS site: <a href="https://www.usgs.gov/volcano/alert-level-icons">https://www.usgs.gov/volcano/alert-level-icons</a></p>
 <p>We found the following visualization best displays our intended goal:
 <img src="Images/USGS_volcanic_hazards_viz.png"></p>
