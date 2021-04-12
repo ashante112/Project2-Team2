@@ -32,6 +32,7 @@
 <p>A more detailed breakdown of these categorical levels can be found on the USGS site: <a href="https://www.usgs.gov/volcano/alert-level-icons">https://www.usgs.gov/volcano/alert-level-icons</a></p>
 <p>We found the following visualization the best displays our intended goal:
 <img src=""></p>
+<p>You can explore the interactive verson on the following site: <a href="https://www.usgs.gov/natural-hazards/volcano-hazards/">https://www.usgs.gov/natural-hazards/volcano-hazards/</a></p>
 
 
 <h2>Resource Links</h2>
