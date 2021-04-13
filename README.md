@@ -38,5 +38,10 @@
 
 <h2>Resource Links</h2>
 <a href="https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search">https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search</a><br>
-<a href="https://volcano.si.edu/search_volcano.cfm">https://volcano.si.edu/search_volcano.cfm</a><br>
 <a href="https://www.americangeosciences.org/critical-issues/maps/volcano-activity-alerts">https://www.americangeosciences.org/critical-issues/maps/volcano-activity-alerts</a>
+
+<h2>Data Sources:</h2>
+<h3>Smithsonian Institution: Global Volcanism Program</h3>
+<p>Site: <a href="https://volcano.si.edu/search_volcano.cfm">https://volcano.si.edu/search_volcano.cfm</a>
+<p>File Type: Excel</p>
+<p>"Volcanoes of the World" is a database describing the physical characteristics of Holocene volcanoes and their eruptions. This search returns a list which may be filtered based on a volcano name, volcano type, features, evidence of recent activity, location (set using a map), country, rock types, population within various distance ranges, or the availability of images. Name and country searches will also return subfeature names and synonyms; using other filters will result in only primary volcano names being returned. A standard set of fields is shown on the screen display, but full results with additional content may be downloaded into an Excel spreadsheet.</p>
