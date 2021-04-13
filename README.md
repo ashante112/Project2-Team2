@@ -18,9 +18,9 @@
 <li>A combination of web scraping and Leaflet or Plotly</li>
 <li>A dashboard page with multiple charts that update from the same data</li>
 <li>A “thick” server that performs multiple manipulations on data in a database prior to visualization (must be approved)</li></ul></li>
-<li>project should include at least one JS library that we did not cover.</li>
-<li>project must be powered by a data set with at least 100 records.</li>
-<li>project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).</li>
+<li>Project should include at least one JS library that we did not cover.</li>
+<li>Project must be powered by a data set with at least 100 records.</li>
+<li>Project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).</li>
 <li>Your final visualization should ideally include at least three views.</li></ol>
 
 <h2>Project Proposal:</h2>
