@@ -21,7 +21,7 @@
 <li>Project should include at least one JS library that we did not cover.</li>
 <li>Project must be powered by a data set with at least 100 records.</li>
 <li>Project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).</li>
-<li>Your final visualization should ideally include at least three views.</li></ol>
+<li>Your final visualization should ideally include at least three views. For example, by geography, status (active, erupted or dormant), or timeframe.</li></ol>
 
 <h2>Project Proposal:</h2>
 <p>Our project will involve creating a visualization of volcanic activity worldwide.</p>
