@@ -35,13 +35,14 @@
 <img src="Images/USGS_volcanic_hazards_viz.png"></p>
 <p>You can explore the interactive verson on the following site: <a href="https://www.usgs.gov/natural-hazards/volcano-hazards/">https://www.usgs.gov/natural-hazards/volcano-hazards/</a></p>
 
-
-<h2>Resource Links</h2>
-<a href="https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search">https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-search</a><br>
-<a href="https://www.americangeosciences.org/critical-issues/maps/volcano-activity-alerts">https://www.americangeosciences.org/critical-issues/maps/volcano-activity-alerts</a>
-
 <h2>Data Sources:</h2>
-<h3>Smithsonian Institution: Global Volcanism Program</h3>
+
+<ol><li><h3>Smithsonian Institution: Global Volcanism Program</h3>
 <p>Site: <a href="https://volcano.si.edu/search_volcano.cfm">https://volcano.si.edu/search_volcano.cfm</a>
 <p>File Type: Excel</p>
-<p>"Volcanoes of the World" is a database describing the physical characteristics of Holocene volcanoes and their eruptions. This search returns a list which may be filtered based on a volcano name, volcano type, features, evidence of recent activity, location (set using a map), country, rock types, population within various distance ranges, or the availability of images. Name and country searches will also return subfeature names and synonyms; using other filters will result in only primary volcano names being returned. A standard set of fields is shown on the screen display, but full results with additional content may be downloaded into an Excel spreadsheet.</p>
+<p>"Volcanoes of the World" is a database describing the physical characteristics of Holocene volcanoes and their eruptions. This search returns a list which may be filtered based on a volcano name, volcano type, features, evidence of recent activity, location (set using a map), country, rock types, population within various distance ranges, or the availability of images. Name and country searches will also return subfeature names and synonyms; using other filters will result in only primary volcano names being returned. A standard set of fields is shown on the screen display, but full results with additional content may be downloaded into an Excel spreadsheet.</p></li>
+
+<li><h3>NOAA</h3>
+<p>Site: <a href="https://public.opendatasoft.com/explore/dataset/significant-volcanic-eruption-database/information/">https://public.opendatasoft.com/explore/dataset/significant-volcanic-eruption-database/information/</a></p>
+<p>File Type: <a href="https://public.opendatasoft.com/api/records/1.0/search/?dataset=significant-volcanic-eruption-database&q=&facet=year&facet=tsu&facet=eq&facet=name&facet=location&facet=country&facet=type&facet=status&facet=deaths_description&facet=missing_description&facet=injuries_description&facet=damage_description&facet=houses_destroyed_description&facet=total_deaths_description&facet=total_missing_description&facet=total_injuries_description&facet=total_damage_description&facet=total_houses_destroyed_description&facet=houses_damaged_description">Json</a></p>
+<p>The Significant Volcanic Eruption Database is a global listing of over 500 significant eruptions which includes information on the latitude, longitude, elevation, type of volcano, and last known eruption. A significant eruption is classified as one that meets at least one of the following criteria: caused fatalities, caused moderate damage (approximately $1 million or more), with a Volcanic Explosivity Index (VEI) of 6 or larger, caused a tsunami, or was associated with a major earthquake.</p></li></ol>
