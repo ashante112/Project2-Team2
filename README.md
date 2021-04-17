@@ -25,7 +25,7 @@
 
 <h2>Project Proposal:</h2>
 <p>Our project will involve creating a visualization of volcanic activity worldwide.</p>
-<p>In light of the current volcanic eruption of Saint Soufrere which took place in Saint Vincent and Grenadines, our group chose to focus our project on bringing awereness to the scope of volcanic activities in an interactive and geographic visualization. We also believe this is a great opportunity to study how scientists can view trends in natural phenomena to make predictions to proactively save lives.</p> 
+<p>In light of the current volcanic eruption of Saint Soufrere which took place in Saint Vincent and Grenadines, our group chose to focus our project on bringing awareness to the scope of volcanic activities in an interactive and geographic visualization. We also believe this is a great opportunity to learn how scientists can use data to view trends in natural phenomena to make predictions on eruptions and proactively save lives.</p> 
 
 <p>We plan to construct a global view of volcanic references which are labeled according to their current status of activity. For example: <ul><div><li>Green = normal</li>
 <li>Yellow = advisory</li>
