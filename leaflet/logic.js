@@ -5,6 +5,8 @@ var { light, dark, street } = createBaseLayers();
 var volcanoMarkers = [];
 var tectonicPlateMarkers = [];
 
+var ringOfFireMArkers =[];
+
 var volcanoLayer =new L.layerGroup();
 var tectonicLayer = new L.layerGroup();
 // Create map object and set default layers
@@ -62,6 +64,7 @@ legend.onAdd = function () {
     "#ea2c2c"
   ];
 
+  div.innerHTML += "<h4> P E I  </h4> " ;
   // Looping through our intervals to generate a label with a colored square for each interval.
   for (var i = 0; i < grades.length; i++) {
     div.innerHTML += "<i style='background: " + colors[i] + "'></i> "
@@ -164,10 +167,18 @@ function parseBoundariesJSON(response) {
           color: "red",
           fillColor: "red",
           fillOpacity: 0.5,
-          radius: 1
+          radius: 1,
+          stroke: true,
+          weight: 0.1
       }).addTo(tectonicLayer);
 
       //tectonicPlateMarkers.push(plateCircle)
   }
 }
 
+
+d3.csv("GeoJSON/Volcano_Emission.csv", function(data) {
+  for (var i = 0; i < 10; i++) {
+      console.log(data[i]);      
+  }
+});
