@@ -31,8 +31,8 @@ def scrape_info():
 
     # Get the text
 
-    slide_elem = soup.find("div", class_="node clear-block")
-
+    # slide_elem = soup.find("div", class_="node clear-block")
+    slide_elem = soup.find("div", class_="field-item even")
     # slide_elem.get_text()
     s = ""
 

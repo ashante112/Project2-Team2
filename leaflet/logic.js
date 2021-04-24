@@ -147,9 +147,6 @@ function getColor(depth) {
 }
 
 
-
-
-
 function parseBoundariesJSON(response) {
   console.log("tectanic plate boundary response")
   console.log(response);
