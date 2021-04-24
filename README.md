@@ -1,4 +1,4 @@
--<h2>Project 2 Team:</h2>
+<h2>Project 2 Team:</h2>
 <ul><li>Dan Freda</li>
   <li>Banu Nathan</li>
   <li>Fleming Brathwaite</li>
