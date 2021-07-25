@@ -1,42 +1,28 @@
-<h2>Project 2 Team:</h2>
-<ul><li>Dan Freda</li>
-  <li>Banu Nathan</li>
-  <li>Fleming Brathwaite</li>
-  <li>Shawntell Manning</li></ul>
+<h1>Global Volcanic Activitiy Visualizer</h1>
 
-<h2>Project Description:</h2>
-<ol><li>Your task is to tell a story using data visualizations.</li>
-<li>Focus on providing users an interactive means to explore data themselves.</li>
-<li>Prepare a 10-minute presentation that lays out your theme, coding approach, data munging techniques, and final visualization.</li>
-<li>You may choose a project of any theme, but we encourage you to think broadly.</li>
-<li>You will have ample time in class to work with your group, but expect to put in hours outside of class as well.</li></ol>
 
-<h2>Project Requirements:</h2>
-<ol><li>Your visualization must include a Python Flask–powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).</li>
-<li>Your project should fall into one of the below four tracks:<br>
-<ul><li>A custom “creative” D3.js project (i.e., a nonstandard graph or chart)</li>
-<li>A combination of web scraping and Leaflet or Plotly</li>
-<li>A dashboard page with multiple charts that update from the same data</li>
-<li>A “thick” server that performs multiple manipulations on data in a database prior to visualization (must be approved)</li></ul></li>
-<li>Project should include at least one JS library that we did not cover.</li>
-<li>Project must be powered by a data set with at least 100 records.</li>
-<li>Project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).</li>
-<li>Your final visualization should ideally include at least three views. For example, by geography, status (active, erupted or dormant), or timeframe.</li></ol>
+<h2>Providing users an interactive means to explore data themselves</h2>
 
-<h2>Project Proposal:</h2>
-<p>Our project will involve creating a visualization of volcanic activity worldwide.</p>
-<p>In light of the current volcanic eruption of Saint Soufrere which took place in Saint Vincent and Grenadines, our group chose to focus our project on bringing awareness to the scope of volcanic activities in an interactive and geographic visualization. We also believe this is a great opportunity to learn how scientists can use data to view trends in natural phenomena to make predictions on eruptions and proactively save lives.</p> 
 
-<p>We plan to construct a global view of volcanic references which are labeled according to their current status of activity. For example: <ul><div><li>Green = normal</li>
-<li>Yellow = advisory</li>
-<li>Orange = watch</li>
-<li>Red = warning</li></ul></div><div><img src="Images/Volcanic_Advisory_Scale.jpeg"></div></p>
+  
 
-<p>A more detailed breakdown of these categorical levels can be found on the USGS site: <a href="https://www.usgs.gov/volcano/alert-level-icons">https://www.usgs.gov/volcano/alert-level-icons</a></p>
-<p>We found the following visualization best displays our intended goal:
-<img src="Images/USGS_volcanic_hazards_viz.png"></p>
-<p>You can explore the interactive verson on the following site: <a href="https://www.usgs.gov/natural-hazards/volcano-hazards/">https://www.usgs.gov/natural-hazards/volcano-hazards/</a></p>
+<p>Project involves creating a visualization of volcanic activities worldwide.</p>
+<p>In light of the current volcanic eruption of Saint Soufrere which took place in Saint Vincent and Grenadines, this project focuses on bringing awareness to the scope of volcanic activities in an interactive and geographic visualization. This is a great opportunity to learn how scientists can use data to view trends in natural phenomena to make predictions on eruptions and proactively save lives.</p> 
 
+
+<ul><li>Visualizations are creted utilizing  Python Flask–powered API, HTML/CSS, JavaScript, and PostgreSQL</li>
+<li>Custom “creative” D3.js project (i.e., a nonstandard graph or chart)</li>
+<li>Combination of web scraping and Leaflet and Plotly</li>
+<li>Dashboard page with multiple charts that update from the same data</li>
+
+
+<p float="left">
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/cloudymap.png" width=400 height=200>
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/humiditymap.png" width=400 height=200>
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/temperaturemap.png" width=400 height=200>
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/windmap.png" width=400 height=200>
+</p>
+  
 <h2>Data Sources:</h2>
 
 <ol><li><h3>Smithsonian Institution: Global Volcanism Program</h3>
@@ -54,3 +40,11 @@
 <p>File Type: Web scraping</p>
 <p>The list contains eruptions with more than 500 known human fatalities. These are the most deadly eruptions known. Other eruptions have been as big or bigger than these, but no one lived nearby to be threatened (for example the Valley of 10,000 Smokes eruption in Alaska in 1912). The Mt. St. Helens eruption in 1980 in Washington state was a far less dangerous eruption than these, only 61 humans died, although thousands of deer and other animals perished.</p></li>
 </ol>
+
+  
+<p float="left">
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/cloudymap.png" width=450 height=300>
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/humiditymap.png" width=450 height=300>
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/temperaturemap.png" width=450 height=300>
+<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/windmap.png" width=450 height=300>
+</p>
