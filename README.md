@@ -17,10 +17,10 @@
 
 
 <p float="left">
-<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/leaflet1.png" width=400 height=200>
-<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/leafletWithMarker.png" width=400 height=200>
-<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/interactive.png" width=400 height=200>
-<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/webScrape1.png" width=400 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/leaflet1.png" width=375 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/leafletWithMarker.png" width=375 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/interactive.png" width=375 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/webScrape1.png" width=375 height=200>
 </p>
   
 <h2>Data Sources:</h2>
