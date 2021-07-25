@@ -13,14 +13,14 @@
 <ul><li>Visualizations are creted utilizing  Python Flask–powered API, HTML/CSS, JavaScript, and PostgreSQL</li>
 <li>Custom “creative” D3.js project (i.e., a nonstandard graph or chart)</li>
 <li>Combination of web scraping and Leaflet and Plotly</li>
-<li>Dashboard page with multiple charts that update from the same data</li>
+<li>Dashboard page with multiple charts that update from the same data</li><ul>
 
 
 <p float="left">
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/cloudymap.png" width=400 height=200>
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/humiditymap.png" width=400 height=200>
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/temperaturemap.png" width=400 height=200>
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/windmap.png" width=400 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/leaflet1.png" width=400 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/leafletWithMarker.png" width=400 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/interactive.png" width=400 height=200>
+<img src = "https://github.com/ashante112/Project2-Team2/blob/main/Images/webScrape1.png" width=400 height=200>
 </p>
   
 <h2>Data Sources:</h2>
@@ -41,10 +41,4 @@
 <p>The list contains eruptions with more than 500 known human fatalities. These are the most deadly eruptions known. Other eruptions have been as big or bigger than these, but no one lived nearby to be threatened (for example the Valley of 10,000 Smokes eruption in Alaska in 1912). The Mt. St. Helens eruption in 1980 in Washington state was a far less dangerous eruption than these, only 61 humans died, although thousands of deer and other animals perished.</p></li>
 </ol>
 
-  
-<p float="left">
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/cloudymap.png" width=450 height=300>
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/humiditymap.png" width=450 height=300>
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/temperaturemap.png" width=450 height=300>
-<img src = "https://github.com/BanuNathan/Weather-Analysis/blob/main/Images/windmap.png" width=450 height=300>
-</p>
+ 
